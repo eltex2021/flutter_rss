@@ -1,0 +1,133 @@
+import 'dart:core';
+
+import 'package:webfeed/domain/dublin_core/dublin_core.dart';
+import 'package:webfeed/domain/itunes/itunes.dart';
+import 'package:webfeed/domain/rss_category.dart';
+import 'package:webfeed/domain/rss_cloud.dart';
+import 'package:webfeed/domain/rss_image.dart';
+import 'package:webfeed/domain/rss_item.dart';
+import 'package:webfeed/domain/syndication/syndication.dart';
+import 'package:webfeed/util/iterable.dart';
+import 'package:xml/xml.dart';
+
+
+// работает но как будто медленне чем оригинал
+
+class RssFeed2 {
+  final String title;
+  final String author;
+  final String description;
+  final String link;
+  final String price;           // добавил
+  final List<RssItem> items;
+
+  final RssImage image;
+  final RssCloud cloud;
+  final List<RssCategory> categories;
+  final List<String> skipDays;
+  final List<int> skipHours;
+  final String lastBuildDate;
+  final String language;
+  final String generator;
+  final String copyright;
+  final String docs;
+  final String managingEditor;
+  final String rating;
+  final String webMaster;
+  final int ttl;
+  final DublinCore dc;
+  final Itunes itunes;
+  final Syndication syndication;
+
+  RssFeed2({
+    this.title,
+    this.author,
+    this.description,
+    this.link,
+    this.price,
+    this.items,
+    this.image,
+    this.cloud,
+    this.categories,
+    this.skipDays,
+    this.skipHours,
+    this.lastBuildDate,
+    this.language,
+    this.generator,
+    this.copyright,
+    this.docs,
+    this.managingEditor,
+    this.rating,
+    this.webMaster,
+    this.ttl,
+    this.dc,
+    this.itunes,
+    this.syndication,
+  });
+
+  factory RssFeed2.parse(String xmlString) {
+    var document = XmlDocument.parse(xmlString);
+    var rss = document.findElements('rss').firstOrNull;
+    var rdf = document.findElements('rdf:RDF').firstOrNull;
+    if (rss == null && rdf == null) {
+      throw ArgumentError('not a rss feed');
+    }
+    //var channelElement = (rss ?? rdf)!.findElements('channel').firstOrNull; // было так
+    var channelElement = (rss).findElements('channel').firstOrNull; // исправил чтобы работало
+    if (channelElement == null) {
+      throw ArgumentError('channel not found');
+    }
+    return RssFeed2(
+      title: channelElement.findElements('title').firstOrNull?.text,
+      author: channelElement.findElements('author').firstOrNull?.text,
+      description: channelElement.findElements('description').firstOrNull?.text,
+      link: channelElement.findElements('link').firstOrNull?.text,
+      price: channelElement.findElements('price').firstOrNull?.text,              // добавил
+      items: (rdf ?? channelElement)
+          .findElements('item')
+          .map((e) => RssItem.parse(e))
+          .toList(),
+      image: (rdf ?? channelElement)
+          .findElements('image')
+          .map((e) => RssImage.parse(e))
+          .firstOrNull,
+      cloud: channelElement
+          .findElements('cloud')
+          .map((e) => RssCloud.parse(e))
+          .firstOrNull,
+      categories: channelElement
+          .findElements('category')
+          .map((e) => RssCategory.parse(e))
+          .toList(),
+      skipDays: channelElement
+          .findElements('skipDays')
+          .firstOrNull
+          ?.findAllElements('day')
+          ?.map((e) => e.text)
+          ?.toList() ??
+          [],
+      skipHours: channelElement
+          .findElements('skipHours')
+          .firstOrNull
+          ?.findAllElements('hour')
+          ?.map((e) => int.tryParse(e.text) ?? 0)
+          ?.toList() ??
+          [],
+      lastBuildDate:
+      channelElement.findElements('lastBuildDate').firstOrNull?.text,
+      language: channelElement.findElements('language').firstOrNull?.text,
+      generator: channelElement.findElements('generator').firstOrNull?.text,
+      copyright: channelElement.findElements('copyright').firstOrNull?.text,
+      docs: channelElement.findElements('docs').firstOrNull?.text,
+      managingEditor:
+      channelElement.findElements('managingEditor').firstOrNull?.text,
+      rating: channelElement.findElements('rating').firstOrNull?.text,
+      webMaster: channelElement.findElements('webMaster').firstOrNull?.text,
+      ttl: int.tryParse(
+          channelElement.findElements('ttl').firstOrNull?.text ?? '0'),
+      dc: DublinCore.parse(channelElement),
+      itunes: Itunes.parse(channelElement),
+      syndication: Syndication.parse(channelElement),
+    );
+  }
+}

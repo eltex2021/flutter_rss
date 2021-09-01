@@ -1,0 +1,184 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Фути-бьюти.рф</title>
+<link>https://xn----btbtc0cdch1fua.xn--p1ai/</link>
+<description>Новинки косметики фути-бьюти.рф</description>
+<item>
+<g:google_product_category>5978</g:google_product_category>
+<title>Гель для душа с алоэ вера Holika Holika Shower Gel Aloe 92%, 55 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/holika-holika-shower-gel-aloe-92-55-ml.html</g:link>
+<g:price>240.00 RUB</g:price>
+<g:id>1936</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Тело</g:product_type>
+<g:description>Гель для душа «Алоэ» с 92% содержанием экстракта сока алоэ вера. Он очищает кожу от ежедневных загрязнений, интенсивно увлажняет, помогает сохранить влагу, убирает шелушения. Способ применения: Вспеньте гель при помощи мочалки, помассируйте кожу тела и смойте теплой водой. -: Гель для: тела Тип кожи: Все типы Тип кожи: жирная Тип кожи: комбинированная Тип кожи: нормальная Тип кожи: проблемная Тип кожи: сухая Тип кожи: чувствительная Эффект: очищение Эффект: питание Эффект: увлажнение Эффект: успокаивающий</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/holika/holika-holika-shower-gel-aloe-92-55-ml-500x500.jpg</g:image_link>
+<g:gtin>8806334362720</g:gtin>
+<g:brand>Holika Holika</g:brand>
+<g:sale_price>185.00 RUB</g:sale_price>
+</item>
+<item>
+<title>Шампунь для волос CP-1 3 Seconds Hair Fill-Up Shampoo ESTHETIC HOUSE, 500 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/shampun-dlya-volos-cp-1-3-seconds-hair-fill-up-shampoo-esthetic-house-500-ml.html</g:link>
+<g:price>1100.00 RUB</g:price>
+<g:id>1937</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Волосы</g:product_type>
+<g:description>CP-1 3Seconds Hair Fill-Up Shampoo Шампунь для волос ТМ CP-1 Тщательно очищает кожу головы от загрязнений и себума. Содержит запатентованный ингредиент AQUAXYL - многофункциональный увлажняющий и восстанавливающий комплекс для волос. Защищает волосы от внешних агрессивных факторов, улучшает структуру, увлажняет волосы по всей длине и дарит локонам блеск. AQUAXYL смягчает поверхность кожи головы и нейтрализует воздействие ПАВ. Применение: Необходимое количество средства нанесите на влажные волосы, вспеньте, слегка массируя кожу головы. Тщательно промойте теплой водой. Объем: 500 мл. -: CP-1 -: Шампунь для: волос</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/esthetichouse/shampun-dlya-volos-cp-1-3-seconds-hair-fill-up-shampoo-esthetic-house-500-ml-500x500.jpg</g:image_link>
+<g:gtin>8809450012524</g:gtin>
+<g:brand>ESTHETIC HOUSE</g:brand>
+</item>
+<item>
+<title>Шампунь для волос Olive&Argan 2in1 Shampoo 3W CLINIC, 500 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/shampun-dlya-volos-olive-argan-2in1-shampoo-3w-clinic-500-ml.html</g:link>
+<g:price>730.00 RUB</g:price>
+<g:id>1938</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Волосы</g:product_type>
+<g:description>Компоненты входящие в состав шампуня интенсивно питают и увлажняют, восстанавливают Ваши волосы, бережно очищают их от загрязнений. Драгоценное аргановое масло увлажняет кожу головы, способствует ее регенерации, и помогает избавиться от перхоти, стимулирует рост волос Подходит для ежедневного использования и для волос всех типов. В результате регулярного применения шампуня значительно укрепляется структура волоса, исчезает ломкость, волосы становятся гладкими, шелковистыми, послушными и блестящими, вновь сияя здоровьем и красотой. Применение: нанести на влажные волосы небольшое количество шампуня, вспенить массирующими движениями и смыть.Объем: 500 мл -: Шампунь Тип шампуня: Для всех типов волос Тип шампуня: Для поврежденных волос Тип шампуня: Для роста волос Тип шампуня: От перхоти для: волос Эффект: питание</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/3wclinic/shampun-dlya-volos-olive-argan-2in1-shampoo-3w-clinic-500-ml-500x500.jpg</g:image_link>
+<g:gtin>8809643280280</g:gtin>
+<g:brand>3W CLINIC</g:brand>
+</item>
+<item>
+<g:google_product_category>2571</g:google_product_category>
+<title>Вибрационный роликовый массажёр для лица Wellderma Face Lifting Vibration Roller</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/wellderma-face-lifting-vibration-roller.html</g:link>
+<g:price>2300.00 RUB</g:price>
+<g:id>1941</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Лицо</g:product_type>
+<g:description>Face Lifting Vibration Roller Вибрационный роликовый массажёр ТМ WellDerma Вибрационный роликовый массажёр совершает 6000 мелких вибраций в минуту, что позволяет делать интенсивный комплексный массаж лица, мягко стимулируя тонус мышц и обеспечивая нормализацию кровообращения. Благодаря вибрации, повышается эффективность проработки мышечной ткани, улучшаются обменные процессы и цвет лица, уменьшается отечность. Применение: Для включения/выключения вибрации поверните диск на кончике ручки массажера «ON/OFF». Чтобы поставить или заменить батарею, поверните диск на кончике ручки массажера «OFF», чтобы выключить вибрацию, далее открутите крышку и вставьте 1 батарею АА в правильном направлении, закрутите крышку. Используйте массажёр на сухой коже или делайте массаж по маслу, крему или сыворотке для лучшего скольжения. Двигайтесь по направлению массажных линий – от центра к периферии и/или снизу вверх. Продолжительность массажа не должна превышать 8-10 минут. Если вы не используете массажер в течение длительного времени, храните его без батареи. Массажер НЕ является водонепроницаемым - НЕ погружайте его в воду или другие жидкости. При необходимости, очистите массажер мягкой влажной салфеткой и протрите насухо. Батарейки в комплект не входят. Хранить в недоступном для детей месте. В случае появления раздражения немедленно прекратить использование.</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/wellderma/wellderma-face-lifting-vibration-roller-500x500.jpg</g:image_link>
+<g:gtin>8809502181017</g:gtin>
+<g:brand>WELLDERMA</g:brand>
+</item>
+<item>
+<title>Тональный кушон с коллагеном Enough Collagen Aqua Air Cushion SPF50+ PA+++ (21), 15 гр</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/enough-collagen-aqua-air-cushion-spf50-pa-21-15-gr.html</g:link>
+<g:price>1200.00 RUB</g:price>
+<g:id>1942</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Макияж</g:product_type>
+<g:description>Collagen Aqua Air Cushion SPF50+ PA+++ (21) Тональный кушон ТМ ENOUGH Создает равномерное покрытие, которое маскирует несовершенства кожи, выравнивает тон и рельеф кожи, делает кожу гладкой и дарит естественное сияние. Увлажняет кожу в течение дня. Защищает от УФ-лучей, предотвращает повреждение кожи, появление ожогов и покраснений.Применение: Откройте футляр и с помощью спонжа наберите продукт, слегка надавив им на подушку-кушон. Похлопывающими движениями распределите продукт по лицу. При необходимости повторите. -: Пудра для: лица Тип кожи: Все типы Тип кожи: жирная Тип кожи: комбинированная Тип кожи: нормальная Тип кожи: проблемная Тип кожи: сухая Тип кожи: чувствительная Эффект: увлажнение</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/enough/enough-collagen-aqua-air-cushion-spf50-pa-21-15-gr-500x500.jpg</g:image_link>
+<g:gtin>8809084080029</g:gtin>
+<g:brand>Enough</g:brand>
+</item>
+<item>
+<title>Маска-шапочка для волос с яблочным уксусом ACV Vinegar Hair Cap Lador, 30 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/maska-shapochka-dlya-volos-s-yablochnym-uksusom-acv-vinegar-hair-cap-lador-5-30-ml.html</g:link>
+<g:price>275.00 RUB</g:price>
+<g:id>1943</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Волосы</g:product_type>
+<g:description>Маска-шапочка для волос с яблочным уксусом - это одновременный уход за волосами и кожей головы!Маска с оптимальным рH уровнем тщательно очищает кожу головы и придает волосам блеск, питает и смягчает повреждённые волосы.Оптимальный рH уровень: балансирует уровень pН волос и кожи головы благодаря кислотному ингредиенту - яблочному уксусу - в составе, а также защищает волосы от повреждений.Очищение кожи головы: маска в форме шапочки способствует эффективному очищению кожи головы и волос.Яблочный уксус и экстракт яблока очищают кожу головы от остатков косметических средств и дарят ощущение свежести.Блеск: экстракт корня императы цилиндрической, полученный в процессе ферментации, богат питательными протеинами, поэтому он питает и смягчает волосы, а также придает им блеск.Объём: нормализует водно-липидный баланс волос, придавая объём и естественный блеск.Способ применения: После мытья волос промокните их полотенцем. Соберите волосы на макушке, а затем возьмите маску и оберните ее вокруг головы таким образом, -: Маска для: волос</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/lador/maska-shapochka-dlya-volos-s-yablochnym-uksusom-acv-vinegar-hair-cap-lador-5-30-ml-500x500.jpg</g:image_link>
+<g:gtin>8809273160129</g:gtin>
+<g:brand>LADOR</g:brand>
+</item>
+<item>
+<title>Шампунь для тонких волос Lador Dermatical Hair-Loss Shampoo (For Thin Hair), 530 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/lador-dermatical-hair-loss-shampoo-for-thin-hair-530-ml.html</g:link>
+<g:price>1760.00 RUB</g:price>
+<g:id>1944</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Волосы</g:product_type>
+<g:description>Шампунь против выпадения волос оказывает глубокое очищающее действие, благодаря чему улучшается питание волосяных луковиц, способствует укреплению волос, защищает их от воздействия внешних негативных факторов. В составе шампуня салициловая кислота, которая обеспечивает отшелушивание омертвевших клеток, которые мешают ее нормальному питанию, что приводит к ослаблению и выпадению волос. Кроме того, салициловая кислота увлажняет и успокаивает кожу. Пантенол защищает волосы от ультрафиолета, высокой или низкой температуры, а также других негативных воздействий окружающей среды. Создавая на каждом волосе невидимую пленочку, пантенол делает их более гладкими, легкими, послушными, визуально увеличивает объем волос. Кроме того, обладает способностью проникать внутрь волос, предупреждать ломкость и выпадение.Способ применения: Нанести шампунь на влажные волосы, вспенить и помассировать, затем смыть теплой водой. -: Шампунь для: волос</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/lador/lador-dermatical-hair-loss-shampoo-for-thin-hair-530-ml-500x500.jpg</g:image_link>
+<g:gtin>8809181935222</g:gtin>
+<g:brand>LADOR</g:brand>
+</item>
+<item>
+<title>Расческа для волос лазурная пластиковая ESTHETIC HOUSE</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/rascheska-dlya-volos-lazurnaya-plastikovaya-esthetic-house.html</g:link>
+<g:price>240.00 RUB</g:price>
+<g:id>1945</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Волосы</g:product_type>
+<g:description>Расческа для легкого расчесывания волос ТМ ESTHETIC HOUSE Легкое расчесывание с наименьшими потерями! Расческа с оригинальным дизайном легко справляется с самыми запутанными волосами, не выдирая их. Щетинки расчески имеют уникальную коническую форму, благодаря чему мягко скользят по волосам, разводя их в стороны, а не опуская узелки вниз и не цепляясь за них, как это делают обычные расчески с шариками на концах. Расческа разглаживает кутикулу волос, избавляя их от эффекта «одуванчика» и возвращая блеск. Размер: 18*7см</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/esthetichouse/rascheska-dlya-volos-lazurnaya-plastikovaya-esthetic-house-500x500.jpg</g:image_link>
+<g:gtin>6983727260077</g:gtin>
+<g:brand>ESTHETIC HOUSE</g:brand>
+</item>
+<item>
+<g:google_product_category>2571</g:google_product_category>
+<title>Тонер для лица Real Skin Healthy Vinegar Skin Toner (Raw Rice Wine), 300 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-raw-rice-wine-300-ml.html</g:link>
+<g:price>800.00 RUB</g:price>
+<g:id>1946</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Лицо</g:product_type>
+<g:description>Уксусный тонер для лица с ферментированным экстрактом рисового вина мягко очищает и увлажняет кожу. Рисовое вино – это один из наиболее популярных в Азии косметических ингредиентов: он обеспечивает защиту от УФ-лучей, увлажняет и смягчает кожу, обладает отбеливающими свойствами. Кроме того, в нём содержатся энзимы, которые помогают клеткам кожи усваивать полезные вещества. Тонер имеет pH 5,5, схожий с pH кожи, что способствует поддержанию естественного кислото-щелочного баланса и ее оздоровлению.Применение: Нанести небольшое количество тонера с помощью ватного диска или кончиков пальцев на очищенную кожу лица и шеи, избегая зоны вокруг глаз, дать впитаться. -: Тоник (Тонер) для: лица Эффект: очищение</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/realskin/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-raw-rice-wine-300-ml-500x500.jpg</g:image_link>
+<g:gtin>8809280351442</g:gtin>
+<g:brand>Real Skin</g:brand>
+</item>
+<item>
+<g:google_product_category>2571</g:google_product_category>
+<title>Тонер для лица Real Skin Healthy Vinegar Skin Toner (Black Bean), 300 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-black-bean-300-ml.html</g:link>
+<g:price>800.00 RUB</g:price>
+<g:id>1947</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Лицо</g:product_type>
+<g:description>Уксусный тонер для лица с ферментированным экстрактом черных соевых бобов обладает выраженным антивозрастным эффектом. Экстракт бобов в составе увеличивает выработку коллагена, повышает упругость и тонус кожи, улучшает цвет лица. Содержит большое количество микроэлементов и витаминов для омоложения кожи. Тонер имеет pH 5,5, схожий с pH кожи, что способствует поддержанию естественного кислото-щелочного баланса и ее оздоровлению.Применение: Нанести небольшое количество тонера с помощью ватного диска или кончиков пальцев на очищенную кожу лица и шеи, избегая зоны вокруг глаз, дать впитаться. -: Тоник (Тонер) для: лица Эффект: очищение</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/realskin/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-black-bean-300-ml-500x500.jpg</g:image_link>
+<g:gtin>8809280351473</g:gtin>
+<g:brand>Real Skin</g:brand>
+</item>
+<item>
+<g:google_product_category>2571</g:google_product_category>
+<title>Тонер для лица Real Skin Healthy Vinegar Skin Toner (Tomato), 300 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-tomato-300-ml.html</g:link>
+<g:price>800.00 RUB</g:price>
+<g:id>1948</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Лицо</g:product_type>
+<g:description>Уксусный тонер для лица с ферментированным экстрактом томата подходит для жирной и комбинированной кожи, склонной к высыпаниям. Обладает антисептическими, противовоспалительными и заживляющими свойствами, эффективно очищает и сужает поры. Тонер имеет pH 5,5, схожий с pH кожи, что способствует поддержанию естественного кислото-щелочного баланса и ее оздоровлению.Применение: Нанести небольшое количество тонера с помощью ватного диска или кончиков пальцев на очищенную кожу лица и шеи, избегая зоны вокруг глаз, дать впитаться. -: Тоник (Тонер) для: лица Эффект: очищение</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/realskin/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-tomato-300-ml-500x500.jpg</g:image_link>
+<g:gtin>8809280351480</g:gtin>
+<g:brand>Real Skin</g:brand>
+</item>
+<item>
+<g:google_product_category>2571</g:google_product_category>
+<title>Тонер для лица Real Skin Healthy Vinegar Skin Toner (Blueberry), 300 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-blueberry-300-ml.html</g:link>
+<g:price>800.00 RUB</g:price>
+<g:id>1949</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Лицо</g:product_type>
+<g:description>Уксусный тонер для лица с ферментированным экстрактом ягод черники эффективно очищает и сужает поры, отшелушивает омертвевшие клетки кожи, регулирует работу сальных желез. Оказывает антибактериальное действие, успокаивает и смягчает кожу. Тонер имеет pH 5,5, схожий с pH кожи, что способствует поддержанию естественного кислото-щелочного баланса и ее оздоровлению.Применение: Нанести небольшое количество тонера с помощью ватного диска или кончиков пальцев на очищенную кожу лица и шеи, избегая зоны вокруг глаз, дать впитаться. -: Тоник (Тонер) для: лица Эффект: очищение</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/realskin/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-black-bean-300-ml1-500x500.jpg</g:image_link>
+<g:gtin>8809280351527</g:gtin>
+<g:brand>Real Skin</g:brand>
+</item>
+<item>
+<g:google_product_category>2571</g:google_product_category>
+<title>Тонер для лица Real Skin Healthy Vinegar Skin Toner (Mulberry), 300 мл</title>
+<g:link>https://xn----btbtc0cdch1fua.xn--p1ai/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-mulberry-300-ml.html</g:link>
+<g:price>800.00 RUB</g:price>
+<g:id>1950</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Лицо</g:product_type>
+<g:description>Уксусный тонер для лица с ферментированным экстрактом тутовника (шелковицы) богат витаминами, органическими кислотами и кальцием. Обладает мягким осветляющим эффектом, хорошо увлажняет и питает кожу, нормализует обменные процессы, предотвращает процессы старения. Тонер имеет pH 5,5, схожий с pH кожи, что способствует поддержанию естественного кислото-щелочного баланса и ее оздоровлению.Применение: Нанести небольшое количество тонера с помощью ватного диска или кончиков пальцев на очищенную кожу лица и шеи, избегая зоны вокруг глаз, дать впитаться. -: Тоник (Тонер) для: лица Эффект: очищение</g:description>
+<g:image_link>https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/realskin/toner-dlya-lica-real-skin-healthy-vinegar-skin-toner-mulberry-300-ml-500x500.jpg</g:image_link>
+<g:gtin>8809280351503</g:gtin>
+<g:brand>Real Skin</g:brand>
+</item>
+</channel>
+</rss>
