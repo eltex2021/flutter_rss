@@ -74,8 +74,7 @@ class _HomeScreenRSSState extends State {
                           child: Column(
                             children: [
                               Text(
-                                //'${_habsList[index].title}',  // было так, но переделал без знака $
-                                //_habsList[index].title, // так вроде правильнее но не та кодировка
+
                                 utf8.decode(latin1
                                     .encode(_productsList[index].title.toString())),
                                 style: TextStyle(
@@ -87,11 +86,7 @@ class _HomeScreenRSSState extends State {
                                 height: 20,
                               ),
                               Container(
-                                //child: Text("${parseDescription(_habsList[index].description)}",),
-                                //child: Image(image: NetworkImage("https://xn----btbtc0cdch1fua.xn--p1ai/image/cache/catalog/pen-mas-el-500x500.jpg"),),
-                                //child: Image(image: NetworkImage("${_habsList[index].image_link}"),),
-                                //child: Image(image: NetworkImage("${_habsList[index].img_prod}"),),
-                                //child: Image(image: NetworkImage("${_habsList[index].image}"),),
+
                                 child: Image(
                                   image: NetworkImage(_productsList[index].author),
                                 ),
@@ -100,7 +95,6 @@ class _HomeScreenRSSState extends State {
                                 height: 20,
                               ),
                               Text(
-                                //"${parseDescription(_habsList[index].description)}",
 
                                 utf8.decode(latin1
                                     .encode(_productsList[index].description)),
@@ -112,14 +106,7 @@ class _HomeScreenRSSState extends State {
                               SizedBox(
                                 height: 10,
                               ),
-                              // Text(
-                              //   utf8.decode(latin1
-                              //       .encode(_habsList[index].price)),
-                              //   style: TextStyle(
-                              //     fontSize: 16,
-                              //     fontWeight: FontWeight.normal,
-                              //   ),
-                              // ),
+
                               SizedBox(
                                 height: 20,
                               ),
@@ -136,7 +123,7 @@ class _HomeScreenRSSState extends State {
                                     onPressed: () => Navigator.push(
                                         context,
                                         MaterialPageRoute(
-                                          //builder: (context) => ReadScreen(urlHab: "${_habsList[index].guid}",),
+
                                           builder: (context) => ReadScreen(
                                             urlHab: "${_productsList[index].link}",
                                             urlImage:
@@ -197,7 +184,7 @@ class _HomeScreenRSSState extends State {
   _getHttp() async {
     var response = await fetchHttpFuti(Uri.parse(
         'https://xn----btbtc0cdch1fua.xn--p1ai/ocext_google_feed_newrss.xml'));
-        //'https://xn----btbtc0cdch1fua.xn--p1ai/index.php?route=extension/feed/ocext_feed_generator_google&token=80993'));
+
 
     var chanel = RssFeed.parse(response.body);
     chanel.items.forEach((element) {
