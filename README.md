@@ -1,4 +1,6 @@
 # flutter_rss
+![2_1](https://user-images.githubusercontent.com/79207629/131658744-22649837-6201-4a83-a6ba-c6629b70253e.png)
+![2-2](https://user-images.githubusercontent.com/79207629/131658756-189fa973-aafe-4cfa-8a5f-764aecd4ef2d.png)
 
 
 Парсер товаров с сайта фути-бьюти.рф
